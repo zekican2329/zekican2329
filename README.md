@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zekican2329
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Androide Studios 
+- 🌱 I’m currently learning Android Studios 
 - 📫 How to reach me zekicankalyoncu@yahoo.com
 
 <!---
